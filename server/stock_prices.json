@@ -1,0 +1,25 @@
+[
+  {
+    "ticker": "A",
+    "name": "Agilent Technologies Inc.",
+    "currency": "usd",
+    "previousClose": 124.71,
+    "logoUrl": "https://api.polygon.io/v1/reference/company-branding/d3d3LmFnaWxlbnQuY29t/images/2023-05-01_icon.jpeg",
+    "refreshInterval": 1
+  },
+  {
+    "ticker": "AA",
+    "name": "Alcoa Corporation",
+    "currency": "usd",
+    "previousClose": 26.08,
+    "logoUrl": "https://api.polygon.io/v1/reference/company-branding/d3d3LmFsY29hLmNvbQ/images/2023-05-01_icon.jpeg",
+    "refreshInterval": 3
+  },
+  {
+    "ticker": "AAA",
+    "name": "AXS First Priority CLO Bond ETF",
+    "currency": "usd",
+    "previousClose": 24.95,
+    "refreshInterval": 3
+  }
+]
